@@ -1,98 +1,129 @@
-# [] CowCare Hub
+## 🐄 CowCare Hub
 
-# About the Project
+# 🌟 Project Overview
 
-CowCare Hub is an educational and awareness-based HTML-only website project focused on cow care, indigenous cow breeds, common cow diseases, and the importance of cows in agriculture and Indian culture.
+CowCare Hub is a comprehensive HTML-only educational website dedicated to cow care, indigenous cow breeds, common cow diseases, and the importance of cows in agriculture and Indian culture 🇮🇳.
 
-### This project is specially designed for students and aims to promote:
+This project is designed especially for college students to learn HTML while spreading awareness about animal welfare and sustainable farming 🌱.
 
-Cow welfare 
+🎯 Objectives
 
-Sustainable farming 
+🐄 Promote proper cow care and welfare
 
-Awareness about cow health 
+🌾 Support farmers with awareness
 
- Website Pages
+🩺 Educate about common cow diseases
 
-# The CowCare Hub website includes the following pages:
+🌍 Encourage eco-friendly agriculture
 
- Home – Overview of all website information
+📚 Help students build real-world HTML projects
 
- About – Purpose and mission of CowCare Hub
+🌐 Website Pages
 
- Cow Breeds – Information about Indian cow breeds
+## The CowCare Hub website consists of the following pages:
 
- Diseases – Common cow diseases and prevention
+🏠 Home – Overview of all website content
 
- Care – Proper food, shelter, and hygiene tips
+ℹ️ About – Purpose and mission of CowCare Hub
 
- Services – Veterinary help & farmer support 
+🐄 Cow Breeds – Indigenous Indian cow breeds
 
- Contact – Get in touch
+🩺 Diseases – Common cow diseases & prevention
 
- ## Features
+🌿 Care – Food, shelter & hygiene tips
 
- Simple and clean HTML design
+🛠 Services – Veterinary & farmer support
 
- Informative content about cow care
+📞 Contact – Communication details
 
- Educational project for students
+## ✨ Key Features
 
- Images and icons for better understanding
+✅ Pure HTML (no CSS / JS dependency)
 
- Easy navigation between pages
+✅ Simple and beginner-friendly
 
- Importance of Cow Care
+✅ Informative content with emojis
 
- Better milk quality
+✅ Multiple images for better understanding
 
- Supports agriculture
+✅ Easy navigation between pages
 
- Environment-friendly farming
+🐄 Common Cow Diseases Covered
 
- Preserves Indian culture
+🦠 Foot and Mouth Disease
 
-## Technologies Used
+🤒 Mastitis
 
- 1. HTML5
- 2. Images & Icons
-3. videos
+🪱 Worm Infection
 
- ## Project Use
+🌡 Milk Fever
 
-This project is suitable for:
+😷 Bovine Tuberculosis
 
-Mini projects
+## Each disease page includes:
 
-Environmental awareness projects
+📌 Symptoms
 
-Beginners learning web development
+💉 Prevention
 
-##  License
+🧑‍⚕️ Basic care tips
 
-This project is created for educational purposes only.
+🌿 Importance of Cow Care
 
- ##  Contributors
-<table><tr><td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><a href="anhalimhase24/github.com"><b>Anjali Mhase</b></a> <br> Student Developer 
-</td> <td align="center"> <img src="images/contributors/guide.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor </td>
-<td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><b>Anjali Mhase</b><br> Student Developer 
-</td>
-<td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><b>Anjali Mhase</b><br> Student Developer 
-</td>
-<td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><b>Anjali Mhase</b><br> Student Developer 
-</td>
-<td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><b>Anjali Mhase</b><br> Student Developer 
-</td> </tr> </table>
+🥛 Improves milk quality
 
-<a href="https://github.com/anjalimhase24/html-github-group-project-Cow-care-hub/graph/contributors">
- <img src="https://contrib.rocks/images?repo=anjalimhase24/html-github-group-project-Cow-care-hub"/></a>
-## Acknowledgement
+🌾 Supports agriculture & farmers
 
-Special thanks to teachers and mentors for their guidance and support.
+🌍 Protects the environment
 
-@Surbhi-Patle-11
-@Romapanchal15
-@AryaThube-9
-@TusharKhatale16
-@anjalimhase24
+🙏 Preserves Indian culture & tradition
 
+🖼️ Project Screenshots
+Page	Preview
+Home Page	
+
+Cow Breeds	
+
+Diseases	
+
+## 🛠 Technologies Used
+
+🌐 HTML5
+
+🖼️ Images & Icons
+
+## 👩‍🤝‍👩 Contributors
+<table> <tr> <td align="center"> <img src="./images/Anjali-image.jpg" width="120"><br> <b>Anjali Mhase</b><br> 👩‍💻 Student Developer<br> <a href="https://github.com/Surbhi-Patle-11" target="_blank"></a> </td> 
+
+<td align="center"> <img src="./images/" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://https://github.com/anjalimhase24" target="_blank"></a> </td> 
+
+<td align="center"> <img src="images/contributors/roma.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/Romapanchal15 target="_blank"></a> </td> 
+
+<td align="center"> <img src="images/contributors/arya.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/AryaThube-9" target="_blank"></a> </td> 
+
+<td align="center"> <img src="images/contributors/tushar.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/TusharKhatale16" target="_blank"></a> </td> </tr> </table>
+
+
+
+## 🎓 Project Use
+
+This project is ideal for:
+
+📘 College HTML assignments
+
+🧑‍🎓 Beginners learning web development
+
+🌱 Environmental awareness projects
+
+🐄 Agriculture & animal care studies
+
+## 📜 License
+
+📌 This project is created for educational purposes only.
+
+## 🙏 Acknowledgement
+
+Special thanks to teachers and mentors for their valuable guidance and continuous support 🙏.
+
+© 2026 CowCare Hub 🐄
+🌱 An educational HTML project made with care.
