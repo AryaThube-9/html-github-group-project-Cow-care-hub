@@ -51,6 +51,9 @@ This project is designed especially for college students to learn HTML while spr
 
 <img width="1882" height="912" alt="image" src="https://github.com/user-attachments/assets/7a6b34a1-766f-45bb-be1a-ea32c17e944b" />
 
+![Uploading image.png…]()
+
+
 ## ✨ Key Features
 
 ✅ Pure HTML (no CSS / JS dependency)
